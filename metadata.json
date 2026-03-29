@@ -1,0 +1,5 @@
+{
+  "name": "VeraCT Scan",
+  "description": "An AI-powered fake news detector with voice control, inspired by the VeraCT Scan presentation.",
+  "requestFramePermissions": ["microphone"]
+}
